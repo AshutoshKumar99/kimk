@@ -13,6 +13,10 @@ System.out.println("Hi there,you are welcome.!");
   System.out.println("git pull");
  System.out.println("Ashutosh Kumar");
    System.out.println("New Delhi");
+  System.out.ptintln("git fetch with merge");
+  
+  
+  
 
 }
 
