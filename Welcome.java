@@ -1,5 +1,12 @@
 class Welcome
 {
+  static
+  {
+     System.out.println("Waoooooo"); 
+    
+  }
+  
+  
 public static void main(String args[])
 {
 System.out.println("Hi there,you are welcome.!");
